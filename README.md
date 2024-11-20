@@ -78,7 +78,7 @@ endmodule
 ```
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: RegisterNumber: 24900590
  
 **Logic symbol & Truthtable**
 
